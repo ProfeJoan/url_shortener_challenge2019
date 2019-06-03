@@ -73,7 +73,7 @@ docker-compose version 1.24.0, build 0aa59064.
 ```
 If you don't receive a message like this please [install Docker Compose](https://docs.docker.com/compose/install/) or check your instalation.
 
-**2. Download the application preparared for Docker Compose [here!](https://www.dropbox.com/s/s2supir8s1xojph/url_shortener_docker_challenge2019.zip?dl=1)**
+**2. Download the application preparared for Docker Compose [here!](https://www.dropbox.com/s/s2supir8s1xojph/url_shortener_docker_challenge2019.zip?dl=1) and unzip it**
 
 **3. This URLs_Shortener application is very easy to install and deploy in a Docker container. Execute the following commands to build and up the application:**
 ```sh
