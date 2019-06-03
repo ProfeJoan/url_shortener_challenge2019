@@ -109,7 +109,7 @@ And please check this aditional endpoint [http://localhost:3000/top](http://loca
 By default, this application will expose port 3000, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image and up the application, **repeat the previous commands again**.
 
 ## Using Heroku
-Let me a minute...
+Enjoy at **https://aqueous-spire-27112.herokuapp.com** :-)
 
 # Next steps
  - Make a awesome web client for my URLs_shortener   "-_-"
