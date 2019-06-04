@@ -67,7 +67,7 @@ $ curl http://localhost:3000/top
 # Where do you want try the application?
 
 ## Using Heroku
-Enjoy at **https://aqueous-spire-27112.herokuapp.com** :-)
+Enjoy at **[https://serene-sands-11478.herokuapp.com/](https://serene-sands-11478.herokuapp.com/)** :-)
 
 ## Using Docker
 **1. First, test your Docker Compose installation:**
