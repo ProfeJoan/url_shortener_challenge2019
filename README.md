@@ -30,7 +30,7 @@ Special thanks for creators and mainteiners of [Sidekiq](https://github.com/mper
   end
 ```
 
-# What is included in the "box"?
+# What is included?
 You can enjoy an API that includes 3 endpoints:
 ### create
 Supports POST method, receive the original_url and creates a short_url.
