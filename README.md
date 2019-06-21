@@ -1,4 +1,4 @@
-# url_shortener_stable
+# URL shortener
 
 A solution by Joan Quesada.
 
