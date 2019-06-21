@@ -1,5 +1,4 @@
-# Full Stack Challenge 2019
-[![](https://frcdn.beenverified.com/assets/img/0930cc4efcc5fb56b36af463f5de1b1f.svg)](https://www.beenverified.com/)
+# url_shortener_stable
 
 A solution by Joan Quesada.
 
